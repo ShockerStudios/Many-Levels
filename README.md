@@ -3,22 +3,26 @@ An Unreal Engine 5 project made at Wichita State University for Game Design III.
 
 [Download the latest release here.](https://github.com/ShockerStudios/Many-Levels/releases/latest)
 
-Graveyard
-Bill - https://bbinter.itch.io
-AJ - https://llamachow.itch.io
-Riley - https://lopcario.itch.io
-Justin - https://justin-mills.itch.io
-Jenny - https://j3nnydomingu3z.itch.io/
 
-Mansion
-Alex S - https://rivero7462.itch.io
-Cameron A - https://cameronallen.itch.io
-Ian -  https://ian-weaver.itch.io
-Nicole - https://nicole-hagedorn.itch.io/
+## Mansion Levels
 
-Dungeon
-Cameron H https://cameron-huckleberry.itch.io/
-Alex K - https://ankv2.itch.io
-Ann - https://scootybootypatooty.itch.io/
-Zach - https://Gojirex.itch.io
-Bryce - https://brycelr.itch.io/
+1. [Nicole Hagedorn](https://nicole-hagedorn.itch.io/)
+1. [Alex Smith](https://rivero7462.itch.io)
+1. [Ian Weaver](https://ian-weaver.itch.io)
+1. [Cameron Allen](https://cameronallen.itch.io)
+
+## Graveyard Levels
+
+1. [Bill Binter](https://bbinter.itch.io)
+1. [Justin Mills](https://justin-mills.itch.io)
+1. [Riley Carpenter](https://lopcario.itch.io)
+1. [AJ Gomez](https://llamachow.itch.io)
+1. [Jenny Dominguez Reyes](https://j3nnydomingu3z.itch.io/)
+
+## Dungeon Levels
+
+1. [Zach Hawkins](https://Gojirex.itch.io)
+1. [Alex Kirk](https://ankv2.itch.io)
+1. [Cameron Huckleberry](https://cameron-huckleberry.itch.io/)
+1. [Ann Weaver](https://scootybootypatooty.itch.io/)
+1. [Bryce Richardson](https://brycelr.itch.io/)
