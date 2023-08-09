@@ -1,4 +1,4 @@
-# Many-Levels
+# Haunted
 An Unreal Engine 5 project made at Wichita State University for Game Design III.
 
 [Download the latest release here.](https://github.com/ShockerStudios/Many-Levels/releases/latest)
@@ -30,4 +30,4 @@ An Unreal Engine 5 project made at Wichita State University for Game Design III.
 1. [Bryce Richardson](https://brycelr.itch.io/)
 
 ##### Github Admin and Main Menu Level
-1. [Professor Foster](https://brianisbrilliant.itch.io/)
+1. [Brian Foster](https://brianisbrilliant.itch.io/)
